@@ -6,7 +6,7 @@ The NSRR ME/CFS dataset includes covariates/phenotypes from 17 PI-ME/CFS subject
 
 ## Methods
 
-The NIH ME/CFS initiative, procedures, and findings are described in [Wallitt et al. 2024](https://pubmed.ncbi.nlm.nih.gov/38383456/)
+The NIH ME/CFS initiative, procedures, and findings are described in [Wallitt et al. 2024](https://pubmed.ncbi.nlm.nih.gov/38383456/).
 
 ## Data de-identification
 
@@ -16,7 +16,7 @@ All personally identifiable information (PII) has been removed from the data fil
 
 ### Covariate/phenotype datasets (CSV)
 
-The [covariate dataset files](:files_path:/datasets) (**mecfs-dataset-0.1.0.csv** and **mecfs-harmonized-dataset-0.1.0.csv**) contain 38 rows respectively.
+The [covariate dataset files](:files_path:/datasets) (**mecfs-dataset-0.1.0.csv** and **mecfs-harmonized-dataset-0.1.0.csv**) contain 38 rows respectively. Use the [edf_filename](:variables_path:/edf_filename) column to link participants to raw polysomnography data.
 
 The dataset columns are described in the accompanying data dictionary files. The variables data dictionary file includes column names (id), labels (display names), descriptions, and other metadata. Categorical variables also include an associated "domain" (e.g., 1=Male, 2=Female), which are described in the domains data dictionary file. 
 
