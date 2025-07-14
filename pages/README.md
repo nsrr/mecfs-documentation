@@ -1,12 +1,12 @@
 ## About
 
-In 2016, the National Institutes of Health (NIH) launched an [initiative to study Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)](https://www.mapmecfs.org/group/post-infectious-mecfs-at-the-nih). The NIH Division of Intramural Research developed an exploratory clinical research program to perform deep phenotyping on a cohort of PI-ME/CFS volunteers and healthy volunteers (HV) as controls. Prior to the SARS-CoV-2 pandemic, this study recruited a cohort of well-characterized PI-ME/CFS patients and applied modern broad and deep scientific measures to describe their biophenotype compared to HVs. The aim was to identify relevant group differences that could generate new hypotheses about the pathogenesis of PI-ME/CFS and provide direction for future research. Over 75 scientists and clinicians across 15 of the 27 institutes that comprise the NIH contributed to this multi-disciplinary work. Importantly, we developed rigorous inclusion criteria which comprised detailed medical and psychological evaluations to minimize diagnostic misattribution. A relatively homogenous population was recruited in whom symptoms were initiated after infection. This study aimed to investigate the underlying pathophysiological mechanisms. The volunteers underwent a multi-dimensional evaluation that included a wide range of physiological measures, physical and cognitive performance testing, and biochemical, microbiological, and immunological assays of blood, cerebrospinal fluid, muscle, and stool. Novel measurement techniques were developed to query issues such as physical capacity, effort preference, and deconditioning that may confound the results. Multi-omic measurements of gene expression, proteins, metabolites, and lipids were performed in parallel on collected samples.
+In 2016, the National Institutes of Health (NIH) launched an [initiative to study Post Infectious Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)](https://www.mapmecfs.org/group/post-infectious-mecfs-at-the-nih). The NIH Division of Intramural Research developed an exploratory clinical research program to perform deep phenotyping on a cohort of PI-ME/CFS volunteers and healthy volunteers (HV) as controls. Prior to the SARS-CoV-2 pandemic, this study recruited a cohort of well-characterized PI-ME/CFS patients and applied modern broad and deep scientific measures to describe their biophenotype compared to HVs. The aim was to identify relevant group differences that could generate new hypotheses about the pathogenesis of PI-ME/CFS and provide direction for future research. Over 75 scientists and clinicians across 15 of the 27 institutes that comprise the NIH contributed to this multi-disciplinary work. Importantly, we developed rigorous inclusion criteria which comprised detailed medical and psychological evaluations to minimize diagnostic misattribution. A relatively homogenous population was recruited in whom symptoms were initiated after infection. This study aimed to investigate the underlying pathophysiological mechanisms. The volunteers underwent a multi-dimensional evaluation that included a wide range of physiological measures, physical and cognitive performance testing, and biochemical, microbiological, and immunological assays of blood, cerebrospinal fluid, muscle, and stool. Novel measurement techniques were developed to query issues such as physical capacity, effort preference, and deconditioning that may confound the results. Multi-omic measurements of gene expression, proteins, metabolites, and lipids were performed in parallel on collected samples.
 
-The NSRR ME/CFS dataset includes covariates/phenotypes from 17 PI-ME/CFS subjects and 21 matched controls. Raw polysomnography data (EDF) are available for 15 PI-ME/CFS subjects.
+The NSRR PI-ME/CFS dataset includes covariates/phenotypes from 17 PI-ME/CFS subjects and 21 matched controls. Raw polysomnography data (EDF) are available for 15 PI-ME/CFS subjects.
 
 ## Methods
 
-The NIH ME/CFS initiative, procedures, and findings are described in [Wallitt et al. 2024](https://pubmed.ncbi.nlm.nih.gov/38383456/).
+The NIH PI-ME/CFS initiative, procedures, and findings are described in [Walitt et al. 2024](https://pubmed.ncbi.nlm.nih.gov/38383456/).
 
 ## Data de-identification
 
@@ -38,11 +38,11 @@ The harmonized-dataset contains many of the most frequently used demographic and
 
 ### Original covariate dataset and documentation
 
-The ME/CFS contributor [provided original documentation and data](:files_path:/original) from their covariate data collection system.
+The PI-ME/CFS contributor [provided original documentation and data](:files_path:/original) from their covariate data collection system.
 
 ## Access and usage restrictions
 
-The ME/CFS dataset is only available for non-commercial use.
+The PI-ME/CFS dataset is only available for non-commercial use.
 
 ## Citation and acknowledgement
 
@@ -60,13 +60,13 @@ Users must include the following text in any Acknowledgements:
 
 *June 2025*
 
-- Make ME/CFS dataset available for data requests
+- Make PI-ME/CFS dataset available for data requests
 
 ## References
 
-- ME/CFS at the NIH: https://www.mapmecfs.org/group/post-infectious-mecfs-at-the-nih
-- ME/CFS GitHub Data Dictionary: http://github.com/nsrr/mecfs-data-dictionary
-- ME/CFS GitHub Documentation: https://github.com/nsrr/mecfs-documentation
+- PI-ME/CFS at the NIH: https://www.mapmecfs.org/group/post-infectious-mecfs-at-the-nih
+- PI-ME/CFS GitHub Data Dictionary: http://github.com/nsrr/pimecfs-data-dictionary
+- PI-ME/CFS GitHub Documentation: https://github.com/nsrr/pimecfs-documentation
 
 ## Questions?
 
