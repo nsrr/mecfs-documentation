@@ -16,11 +16,11 @@ All personally identifiable information (PII) has been removed from the data fil
 
 ### Covariate/phenotype datasets (CSV)
 
-The [covariate dataset files](:files_path:/datasets) (**mecfs-dataset-0.1.0.csv** and **mecfs-harmonized-dataset-0.1.0.csv**) contain 38 rows respectively. Use the [edf_filename](:variables_path:/edf_filename) column to link participants to raw polysomnography data.
+The [covariate dataset files](:files_path:/datasets) (**pimecfs-dataset-0.1.0.csv** and **pimecfs-harmonized-dataset-0.1.0.csv**) contain 38 rows respectively. Use the [edf_filename](:variables_path:/edf_filename) column to link participants to raw polysomnography data.
 
 The dataset columns are described in the accompanying data dictionary files. The variables data dictionary file includes column names (id), labels (display names), descriptions, and other metadata. Categorical variables also include an associated "domain" (e.g., 1=Male, 2=Female), which are described in the domains data dictionary file. 
 
-The history of the covariate dataset and data dictionary files have been tracked on GitHub (https://github.com/nsrr/mecfs-data-dictionary). 
+The history of the covariate dataset and data dictionary files have been tracked on GitHub (https://github.com/nsrr/pimecfs-data-dictionary). 
 
 The harmonized-dataset contains many of the most frequently used demographic and sleep variables. These variables were curated by the NSRR team. Key variables include:
 
