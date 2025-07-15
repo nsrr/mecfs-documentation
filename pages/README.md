@@ -58,7 +58,7 @@ Users must include the following text in any Acknowledgements:
 
 ## Changelog
 
-*June 2025*
+*July 2025*
 
 - Make PI-ME/CFS dataset available for data requests
 
